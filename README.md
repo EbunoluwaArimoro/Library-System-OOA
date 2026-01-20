@@ -100,3 +100,7 @@ stateDiagram-v2
     Overdue --> Available : Fine paid & Returned
     Available --> [*] : Removed from inventory
 ```
+
+## 4. Implementation
+
+The design logic and pseudocode for the class structures can be found in the [src folder](./src).
